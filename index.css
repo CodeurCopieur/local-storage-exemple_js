@@ -1,0 +1,37 @@
+*, ::before, ::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+}
+body #sayHello {
+  margin-top: 40px;
+}
+body #pseudo {
+  width: 60%;
+  font-size: 50px;
+  line-height: 70px;
+  border: none;
+  border-bottom-color: currentcolor;
+  border-bottom-style: none;
+  border-bottom-width: medium;
+  border-bottom: 1px solid #e5e5e5;
+  outline: none;
+  display: block;
+  margin: auto;
+}
+body #send {
+  margin-top: 40px;
+  padding: 10px 50px;
+  text-align: center;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+body #visitDisplay {
+  margin-top: 40px;
+}
+
+/*# sourceMappingURL=index.css.map */
